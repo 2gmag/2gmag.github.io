@@ -19,7 +19,36 @@
 
 .sidebar-heading {
 	font-size: 4rem;
+	text-align: center;
+	border: 6px solid #333333;
 }
+
+.heading1 {
+	background-color: #333333;
+	padding-bottom: 0;
+	padding-left: 0.4em;
+	padding-right: 0.4em;
+	letter-spacing: 1.7px;
+}
+
+.heading1 {
+	color: #ffdbe9;
+}
+
+.heading2 {
+	background-color: #ffdbe9;
+	color: #333333;
+	font-size: 4rem;
+	margin-top: -3rem;
+	text-shadow: 0 0 10px #ffdbe9;
+}
+
+a:hover {
+  order-bottom: none;
+  text-decoration: none;
+}
+
+
 
 .written {
 	color: #999999;
@@ -30,4 +59,12 @@
 
 .box-masonry .box-masonry-text p {
 	color: #555555;
+}
+
+.content-column-content figure figcaption h4 {
+	font-size: 1.8rem;
+	margin-bottom: 0;
+}
+.content-column-content figure figcaption p {
+	font-size: 1.4rem;
 }
