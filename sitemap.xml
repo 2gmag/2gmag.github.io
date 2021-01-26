@@ -64,26 +64,61 @@
   
   <url>
     <loc>https://2gmag.github.io/</loc>
-    <lastmod>2020-09-07T10:57:21-07:00</lastmod>
+    <lastmod>2021-01-26T14:11:13-08:00</lastmod>
   </url>
   
   <url>
     <loc>https://2gmag.github.io/articles/</loc>
-    <lastmod>2020-09-07T10:57:21-07:00</lastmod>
+    <lastmod>2021-01-26T14:11:13-08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://2gmag.github.io/articles/fossils/</loc>
-    <lastmod>2020-09-07T10:57:21-07:00</lastmod>
+    <loc>https://2gmag.github.io/tags/fun/</loc>
+    <lastmod>2021-01-26T14:11:13-08:00</lastmod>
   </url>
   
   <url>
     <loc>https://2gmag.github.io/tags/science/</loc>
-    <lastmod>2020-09-07T10:57:21-07:00</lastmod>
+    <lastmod>2021-01-26T14:11:13-08:00</lastmod>
   </url>
   
   <url>
     <loc>https://2gmag.github.io/tags/</loc>
+    <lastmod>2021-01-26T14:11:13-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://2gmag.github.io/articles/weird-things/</loc>
+    <lastmod>2021-01-26T14:11:13-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://2gmag.github.io/hdd/fastfins/</loc>
+    <lastmod>2021-01-18T13:15:18-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://2gmag.github.io/hdd/</loc>
+    <lastmod>2021-01-18T13:15:18-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://2gmag.github.io/tags/dragons/</loc>
+    <lastmod>2021-01-16T11:44:42-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://2gmag.github.io/articles/rescue-riders/</loc>
+    <lastmod>2021-01-16T11:44:42-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://2gmag.github.io/tags/videos/</loc>
+    <lastmod>2021-01-16T11:44:42-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://2gmag.github.io/articles/fossils/</loc>
     <lastmod>2020-09-07T10:57:21-07:00</lastmod>
   </url>
   
@@ -119,6 +154,22 @@
   
   <url>
     <loc>https://2gmag.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://2gmag.github.io/hdd/fire-furies/</loc>
+  </url>
+  
+  <url>
+    <loc>https://2gmag.github.io/hdd/golden-dragons/</loc>
+  </url>
+  
+  <url>
+    <loc>https://2gmag.github.io/hdd/relentless-razorwings/</loc>
+  </url>
+  
+  <url>
+    <loc>https://2gmag.github.io/hdd/swiftwings/</loc>
   </url>
   
 </urlset>
